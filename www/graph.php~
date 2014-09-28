@@ -48,11 +48,6 @@ function grafico ($v,$nomegraph,$titolo,$x){
 		foreach($s as $e){
 			if(!$flag){
 //			var_dump($e);
-				$ib=$i;			
-				while ($ib<$x[$i]){
-					$serie[$ii]->addPoint(new Point(sprintf("%02d",$ib],0));
-					$ib=$ib+1;
-				}
 				$serie[$ii]->addPoint(new Point(sprintf("%02d",$x[$i]),$e+0));
 				$i=$i+1;
 			}
