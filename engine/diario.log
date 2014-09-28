@@ -1,0 +1,438 @@
+Nuovo File del Sun Sep 28 16:08:38 2014
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+Registra Lippi salvatoremoretti@tiscali.it
+Registrato  Nodo :Firenze::Lippi 172.19.177.52
+Riattivazione Nodo: Firenze::Lippi 172.19.177.52
+Firenze::Lippi salvatoremoretti@tiscali.it 172.19.177.52  -  10.150.28.20 attivo =  1
+---------------------------------------------------------
+Registra Lippi salvatoremoretti@tiscali.it
+Registrato  Nodo :Firenze::Lippi 172.19.177.51
+Riattivazione Nodo: Firenze::Lippi 172.19.177.51
+Firenze::Lippi salvatoremoretti@tiscali.it 172.19.177.51  -  10.150.28.25 attivo =  1
+---------------------------------------------------------
+Registra  
+Disattivazione Nodo: RossiniDalleOnde 172.19.194.3
+RossiniDalleOnde  172.19.194.3  -  10.150.29.254 attivo =  0
+---------------------------------------------------------
+Registra Firenze MI nolith@abisso.org
+Registrato  Nodo :Firenze::MI 172.19.177.0
+Riattivazione Nodo: Firenze::MI 172.19.177.0
+Firenze::MI nolith@abisso.org 172.19.177.0  -  10.150.7.3 attivo =  1
+---------------------------------------------------------
+Registra Emerson ginox@autistici.org
+Registrato  Nodo :Csa-nExt emerson 172.19.191.2
+Riattivazione Nodo: Csa-nExt emerson 172.19.191.2
+Csa-nExt emerson ginox@autistici.org 172.19.191.2  -  10.150.26.2 attivo =  1
+---------------------------------------------------------
+Registra Emerson ginox@autistici.org
+Registrato  Nodo :Csa-nExt emerson 172.19.191.3
+Riattivazione Nodo: Csa-nExt emerson 172.19.191.3
+Csa-nExt emerson ginox@autistici.org 172.19.191.3  -  10.150.26.3 attivo =  1
+---------------------------------------------------------
+Registra Fiesole gabriel@autistici.org
+Registrato  Nodo :fiesole1 172.19.64.1
+Riattivazione Nodo: fiesole1 172.19.64.1
+fiesole1 gabriel@autistici.org 172.19.64.1  -  10.150.9.2 attivo =  1
+---------------------------------------------------------
+Registra Fiesole gabriel@autistici.org
+Registrato  Nodo :fiesole1 172.19.64.2
+Riattivazione Nodo: fiesole1 172.19.64.2
+fiesole1 gabriel@autistici.org 172.19.64.2  -  10.150.9.3 attivo =  1
+---------------------------------------------------------
+Registra Ex-Fila contattti@firenze.ninux.org
+Registrato  Nodo :Bellanzer2 172.19.185.3
+Riattivazione Nodo: Bellanzer2 172.19.185.3
+Bellanzer2 contattti@firenze.ninux.org 172.19.185.3  -  10.150.22.3 attivo =  1
+---------------------------------------------------------
+Registra Fiesole gabriel@autistici.org
+Registrato  Nodo :Bellanzer2 172.19.185.2
+Riattivazione Nodo: Bellanzer2 172.19.185.2
+Bellanzer2 gabriel@autistici.org 172.19.185.2  -  10.150.22.2 attivo =  1
+---------------------------------------------------------
+Registra Argingrosso lnoferin@cybervalley.org
+Registrato  Nodo :argingrosso 172.19.192.0
+Riattivazione Nodo: argingrosso 172.19.192.0
+argingrosso lnoferin@cybervalley.org 172.19.192.0  -  10.150.8.2 attivo =  1
+---------------------------------------------------------
+Registra Firenze::Tacca Davide
+Registrato  Nodo :Firenze::Tacca 172.19.175.0
+Riattivazione Nodo: Firenze::Tacca 172.19.175.0
+Firenze::Tacca Davide 172.19.175.0  -  10.150.31.254 attivo =  1
+---------------------------------------------------------
+Registra Firenze::Masaccio1 Davide
+Registrato  Nodo :Firenze::Masaccio1 172.19.185.11
+Riattivazione Nodo: Firenze::Masaccio1 172.19.185.11
+Firenze::Masaccio1 Davide 172.19.185.11  -  10.150.32.251 attivo =  1
+---------------------------------------------------------
+Registra Firenze::Masaccio1 Davide
+Registrato  Nodo :Firenze::Masaccio1 172.19.185.12
+Riattivazione Nodo: Firenze::Masaccio1 172.19.185.12
+Firenze::Masaccio1 Davide 172.19.185.12  -  10.150.32.252 attivo =  1
+---------------------------------------------------------
+Registra gabriel gabriel@autistici.org
+Registrato  Nodo :uname 172.19.185.1
+Riattivazione Nodo: uname 172.19.185.1
+uname gabriel@autistici.org 172.19.185.1  -  10.150.13.15 attivo =  1
+---------------------------------------------------------
+Registra Lavorivirtuali2 
+Disattivazione Nodo: lavorivirtuali2 10.150.5.3
+lavorivirtuali2  10.150.5.3  -  10.150.5.3 attivo =  0
+---------------------------------------------------------
+Registra  antoniohelpcomputers@gmail.com
+Disattivazione Nodo: Melagrana 172.19.193.1
+Melagrana antoniohelpcomputers@gmail.com 172.19.193.1  -  10.150.19.201 attivo =  0
+---------------------------------------------------------
+Disattivazione Nodo: Firenze::Masaccio1 172.19.185.11
+[Sun Sep 28 16:09:47 2014] (68/59)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to292s
+[Sun Sep 28 16:09:47 2014] (66/60)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =516B/s Out =599B/s next to204s
+[Sun Sep 28 16:09:57 2014] (54/44)Nodo :fiesole1 172.19.64.2 Attivo In =812B/s Out =834B/s next to351s
+[Sun Sep 28 16:10:01 2014] (65/64)Nodo :Firenze::MI 172.19.177.0 Attivo In =1907B/s Out =779B/s next to204s
+[Sun Sep 28 16:10:05 2014] (65/64)Nodo :fiesole1 172.19.64.1 Attivo In =542B/s Out =1247B/s next to328s
+[Sun Sep 28 16:10:12 2014] (68/66)Nodo :Bellanzer2 172.19.185.3 Attivo In =401B/s Out =599B/s next to315s
+[Sun Sep 28 16:10:30 2014] (77/76)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =679B/s Out =53B/s next to305s
+[Sun Sep 28 16:11:00 2014] (122/120)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =325B/s Out =309B/s next to350s
+[Sun Sep 28 16:11:18 2014] (129/128)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =57B/s Out =6B/s next to375s
+[Sun Sep 28 16:11:58 2014] (181/180)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =524B/s Out =491B/s next to318s
+[Sun Sep 28 16:12:25 2014] (190/190)Nodo :uname 172.19.185.1 Attivo In =678B/s Out =632B/s next to374s
+[Sun Sep 28 16:13:09 2014] (243/243)Nodo :Bellanzer2 172.19.185.2 Attivo In =48B/s Out =493B/s next to308s
+[Sun Sep 28 16:13:13 2014] (205/204)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =560B/s Out =676B/s next to258s
+[Sun Sep 28 16:13:13 2014] (246/244)Nodo :argingrosso 172.19.192.0 Attivo In =236B/s Out =96B/s next to283s
+[Sun Sep 28 16:13:26 2014] (205/204)Nodo :Firenze::MI 172.19.177.0 Attivo In =103B/s Out =670B/s next to293s
+[Sun Sep 28 16:14:41 2014] (293/292)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to268s
+[Sun Sep 28 16:15:27 2014] (315/315)Nodo :Bellanzer2 172.19.185.3 Attivo In =557B/s Out =688B/s next to235s
+[Sun Sep 28 16:15:34 2014] (328/328)Nodo :fiesole1 172.19.64.1 Attivo In =1948B/s Out =955B/s next to284s
+[Sun Sep 28 16:15:36 2014] (306/305)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =485B/s Out =56B/s next to313s
+[Sun Sep 28 16:15:48 2014] (351/351)Nodo :fiesole1 172.19.64.2 Attivo In =666B/s Out =800B/s next to207s
+[Sun Sep 28 16:16:50 2014] (350/350)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =566B/s Out =607B/s next to219s
+[Sun Sep 28 16:17:17 2014] (318/318)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =629B/s Out =582B/s next to292s
+[Sun Sep 28 16:17:33 2014] (259/258)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =581B/s Out =681B/s next to230s
+[Sun Sep 28 16:17:35 2014] (376/375)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =495B/s Out =65B/s next to364s
+[Sun Sep 28 16:17:57 2014] (283/283)Nodo :argingrosso 172.19.192.0 Attivo In =637B/s Out =98B/s next to207s
+[Sun Sep 28 16:18:19 2014] (310/308)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =656B/s next to354s
+[Sun Sep 28 16:18:23 2014] (296/293)Nodo :Firenze::MI 172.19.177.0 Attivo In =96B/s Out =642B/s next to291s
+[Sun Sep 28 16:18:41 2014] (376/374)Nodo :uname 172.19.185.1 Attivo In =529B/s Out =534B/s next to281s
+[Sun Sep 28 16:19:10 2014] (269/268)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to397s
+[Sun Sep 28 16:19:17 2014] (208/207)Nodo :fiesole1 172.19.64.2 Attivo In =622B/s Out =756B/s next to269s
+[Sun Sep 28 16:19:23 2014] (235/235)Nodo :Bellanzer2 172.19.185.3 Attivo In =540B/s Out =657B/s next to255s
+[Sun Sep 28 16:20:23 2014] (289/284)Nodo :fiesole1 172.19.64.1 Attivo In =1884B/s Out =886B/s next to227s
+[Sun Sep 28 16:20:32 2014] (221/219)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =514B/s Out =609B/s next to232s
+[Sun Sep 28 16:20:50 2014] (314/313)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =442B/s Out =56B/s next to328s
+[Sun Sep 28 16:21:24 2014] (231/230)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =597B/s Out =668B/s next to395s
+[Sun Sep 28 16:21:25 2014] (207/207)Nodo :argingrosso 172.19.192.0 Attivo In =556B/s Out =79B/s next to343s
+[Sun Sep 28 16:22:11 2014] (294/292)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =626B/s Out =588B/s next to329s
+[Sun Sep 28 16:23:15 2014] (292/291)Nodo :Firenze::MI 172.19.177.0 Attivo In =119B/s Out =643B/s next to260s
+[Sun Sep 28 16:23:24 2014] (282/281)Nodo :uname 172.19.185.1 Attivo In =521B/s Out =528B/s next to270s
+Test Nodo: Melagrana 172.19.193.1Non Attivo next to 1240s
+Registra melagrana antoniohelpcomputers@gmail.com
+Registrato  Nodo :Melagrana 172.19.193.1
+Riattivazione Nodo: Melagrana 172.19.193.1
+[Sun Sep 28 16:23:39 2014] (256/255)Nodo :Bellanzer2 172.19.185.3 Attivo In =557B/s Out =672B/s next to233s
+[Sun Sep 28 16:23:40 2014] (364/364)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =528B/s Out =65B/s next to300s
+[Sun Sep 28 16:23:46 2014] (269/269)Nodo :fiesole1 172.19.64.2 Attivo In =632B/s Out =772B/s next to283s
+Test Nodo: RossiniDalleOnde 172.19.194.3Non Attivo next to 1101s
+Registra Rossini lnoferin@cybervalley.org
+Registrato  Nodo :RossiniDalleOnde 172.19.194.3
+Riattivazione Nodo: RossiniDalleOnde 172.19.194.3
+[Sun Sep 28 16:24:12 2014] (228/227)Nodo :fiesole1 172.19.64.1 Attivo In =1922B/s Out =956B/s next to222s
+[Sun Sep 28 16:24:15 2014] (355/354)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =622B/s next to339s
+[Sun Sep 28 16:24:25 2014] (233/232)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =439B/s Out =499B/s next to242s
+[Sun Sep 28 16:25:50 2014] (399/397)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to350s
+[Sun Sep 28 16:26:20 2014] (329/328)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =411B/s Out =55B/s next to328s
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+Registra Lippi salvatoremoretti@tiscali.it
+Registrato  Nodo :Firenze::Lippi 172.19.177.52
+[Sun Sep 28 16:28:36 2014] Riattivazione Nodo: Firenze::Lippi 172.19.177.52
+Firenze::Lippi salvatoremoretti@tiscali.it 172.19.177.52  -  10.150.28.20 attivo =  1
+---------------------------------------------------------
+Registra Lippi salvatoremoretti@tiscali.it
+Registrato  Nodo :Firenze::Lippi 172.19.177.51
+[Sun Sep 28 16:28:37 2014] Riattivazione Nodo: Firenze::Lippi 172.19.177.51
+Firenze::Lippi salvatoremoretti@tiscali.it 172.19.177.51  -  10.150.28.25 attivo =  1
+---------------------------------------------------------
+Registra Rossini lnoferin@cybervalley.org
+Registrato  Nodo :RossiniDalleOnde 172.19.194.3
+[Sun Sep 28 16:28:40 2014] Riattivazione Nodo: RossiniDalleOnde 172.19.194.3
+RossiniDalleOnde lnoferin@cybervalley.org 172.19.194.3  -  10.150.29.254 attivo =  1
+---------------------------------------------------------
+Registra Firenze MI nolith@abisso.org
+Registrato  Nodo :Firenze::MI 172.19.177.0
+[Sun Sep 28 16:28:42 2014] Riattivazione Nodo: Firenze::MI 172.19.177.0
+Firenze::MI nolith@abisso.org 172.19.177.0  -  10.150.7.3 attivo =  1
+---------------------------------------------------------
+Registra Emerson ginox@autistici.org
+Registrato  Nodo :Csa-nExt emerson 172.19.191.2
+[Sun Sep 28 16:28:43 2014] Riattivazione Nodo: Csa-nExt emerson 172.19.191.2
+Csa-nExt emerson ginox@autistici.org 172.19.191.2  -  10.150.26.2 attivo =  1
+---------------------------------------------------------
+Registra Emerson ginox@autistici.org
+Registrato  Nodo :Csa-nExt emerson 172.19.191.3
+[Sun Sep 28 16:28:45 2014] Riattivazione Nodo: Csa-nExt emerson 172.19.191.3
+Csa-nExt emerson ginox@autistici.org 172.19.191.3  -  10.150.26.3 attivo =  1
+---------------------------------------------------------
+Registra Fiesole gabriel@autistici.org
+Registrato  Nodo :fiesole1 172.19.64.1
+[Sun Sep 28 16:28:47 2014] Riattivazione Nodo: fiesole1 172.19.64.1
+fiesole1 gabriel@autistici.org 172.19.64.1  -  10.150.9.2 attivo =  1
+---------------------------------------------------------
+Registra Fiesole gabriel@autistici.org
+Registrato  Nodo :fiesole1 172.19.64.2
+[Sun Sep 28 16:28:50 2014] Riattivazione Nodo: fiesole1 172.19.64.2
+fiesole1 gabriel@autistici.org 172.19.64.2  -  10.150.9.3 attivo =  1
+---------------------------------------------------------
+Registra Ex-Fila contattti@firenze.ninux.org
+Registrato  Nodo :Bellanzer2 172.19.185.3
+[Sun Sep 28 16:28:53 2014] Riattivazione Nodo: Bellanzer2 172.19.185.3
+Bellanzer2 contattti@firenze.ninux.org 172.19.185.3  -  10.150.22.3 attivo =  1
+---------------------------------------------------------
+Registra Fiesole gabriel@autistici.org
+Registrato  Nodo :Bellanzer2 172.19.185.2
+[Sun Sep 28 16:28:56 2014] Riattivazione Nodo: Bellanzer2 172.19.185.2
+Bellanzer2 gabriel@autistici.org 172.19.185.2  -  10.150.22.2 attivo =  1
+---------------------------------------------------------
+Registra  
+[Sun Sep 28 16:29:09 2014] Disattivazione Nodo: argingrosso 172.19.192.0
+argingrosso  172.19.192.0  -  10.150.8.2 attivo =  0
+---------------------------------------------------------
+Registra Firenze::Tacca Davide
+Registrato  Nodo :Firenze::Tacca 172.19.175.0
+[Sun Sep 28 16:29:11 2014] Riattivazione Nodo: Firenze::Tacca 172.19.175.0
+Firenze::Tacca Davide 172.19.175.0  -  10.150.31.254 attivo =  1
+---------------------------------------------------------
+Registra Firenze::Masaccio1 Davide
+Registrato  Nodo :Firenze::Masaccio1 172.19.185.11
+[Sun Sep 28 16:29:14 2014] Riattivazione Nodo: Firenze::Masaccio1 172.19.185.11
+Firenze::Masaccio1 Davide 172.19.185.11  -  10.150.32.251 attivo =  1
+---------------------------------------------------------
+Registra Firenze::Masaccio1 Davide
+Registrato  Nodo :Firenze::Masaccio1 172.19.185.12
+[Sun Sep 28 16:29:16 2014] Riattivazione Nodo: Firenze::Masaccio1 172.19.185.12
+Firenze::Masaccio1 Davide 172.19.185.12  -  10.150.32.252 attivo =  1
+---------------------------------------------------------
+Registra gabriel gabriel@autistici.org
+Registrato  Nodo :uname 172.19.185.1
+[Sun Sep 28 16:29:19 2014] Riattivazione Nodo: uname 172.19.185.1
+uname gabriel@autistici.org 172.19.185.1  -  10.150.13.15 attivo =  1
+---------------------------------------------------------
+Registra Lavorivirtuali2 emanuele.ricciardi@gmail.com
+Registrato  Nodo :lavorivirtuali2 10.150.5.3
+[Sun Sep 28 16:29:21 2014] Riattivazione Nodo: lavorivirtuali2 10.150.5.3
+lavorivirtuali2 emanuele.ricciardi@gmail.com 10.150.5.3  -  10.150.5.3 attivo =  1
+---------------------------------------------------------
+Registra melagrana antoniohelpcomputers@gmail.com
+Registrato  Nodo :Melagrana 172.19.193.1
+[Sun Sep 28 16:29:23 2014] Riattivazione Nodo: Melagrana 172.19.193.1
+Melagrana antoniohelpcomputers@gmail.com 172.19.193.1  -  10.150.19.201 attivo =  1
+---------------------------------------------------------
+[Sun Sep 28 16:29:25 2014] (47/31)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =516B/s Out =599B/s next to253s
+[Sun Sep 28 16:29:25 2014] (37/25)Nodo :fiesole1 172.19.64.1 Attivo In =543B/s Out =1246B/s next to220s
+[Sun Sep 28 16:29:39 2014] (59/58)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =293B/s Out =303B/s next to327s
+[Sun Sep 28 16:29:43 2014] (32/32)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =57B/s Out =6B/s next to392s
+[Sun Sep 28 16:29:44 2014] (24/24)Nodo :uname 172.19.185.1 Attivo In =678B/s Out =631B/s next to232s
+[Sun Sep 28 16:30:18 2014] (56/56)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =1475B/s Out =3244B/s next to287s
+[Sun Sep 28 16:30:49 2014] (133/132)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to315s
+[Sun Sep 28 16:30:51 2014] (115/114)Nodo :Bellanzer2 172.19.185.2 Attivo In =48B/s Out =493B/s next to238s
+[Sun Sep 28 16:30:53 2014] (131/129)Nodo :Firenze::MI 172.19.177.0 Attivo In =1906B/s Out =779B/s next to358s
+[Sun Sep 28 16:30:54 2014] (130/128)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =337B/s Out =294B/s next to399s
+[Sun Sep 28 16:31:10 2014] (137/136)Nodo :Bellanzer2 172.19.185.3 Attivo In =401B/s Out =599B/s next to207s
+[Sun Sep 28 16:31:12 2014] (142/141)Nodo :fiesole1 172.19.64.2 Attivo In =812B/s Out =834B/s next to269s
+[Sun Sep 28 16:31:14 2014] (120/120)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to343s
+[Sun Sep 28 16:31:33 2014] (129/129)Nodo :Melagrana 172.19.193.1 Attivo In =249B/s Out =88B/s next to256s
+[Sun Sep 28 16:32:35 2014] (230/229)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =325B/s Out =309B/s next to352s
+[Sun Sep 28 16:32:49 2014] Disattivazione Nodo: Firenze::Masaccio1 172.19.185.12
+[Sun Sep 28 16:33:05 2014] (220/220)Nodo :fiesole1 172.19.64.1 Attivo In =1865B/s Out =927B/s next to243s
+[Sun Sep 28 16:33:38 2014] (234/232)Nodo :uname 172.19.185.1 Attivo In =531B/s Out =545B/s next to352s
+[Sun Sep 28 16:33:40 2014] (255/253)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =499B/s Out =667B/s next to359s
+[Sun Sep 28 16:34:38 2014] (208/207)Nodo :Bellanzer2 172.19.185.3 Attivo In =555B/s Out =668B/s next to377s
+[Sun Sep 28 16:34:51 2014] (239/238)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =632B/s next to361s
+[Sun Sep 28 16:35:07 2014] (328/327)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =550B/s Out =156B/s next to394s
+[Sun Sep 28 16:35:13 2014] (295/287)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =559B/s Out =72B/s next to357s
+[Sun Sep 28 16:35:42 2014] (269/269)Nodo :fiesole1 172.19.64.2 Attivo In =611B/s Out =756B/s next to397s
+[Sun Sep 28 16:35:50 2014] (257/256)Nodo :Melagrana 172.19.193.1 Attivo In =571B/s Out =408B/s next to399s
+[Sun Sep 28 16:36:05 2014] (316/315)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to359s
+[Sun Sep 28 16:36:17 2014] (393/392)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =532B/s Out =64B/s next to391s
+[Sun Sep 28 16:36:54 2014] (360/358)Nodo :Firenze::MI 172.19.177.0 Attivo In =125B/s Out =637B/s next to400s
+[Sun Sep 28 16:36:58 2014] (343/343)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to308s
+[Sun Sep 28 16:37:10 2014] (244/243)Nodo :fiesole1 172.19.64.1 Attivo In =2035B/s Out =944B/s next to388s
+[Sun Sep 28 16:37:34 2014] (400/399)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =664B/s Out =583B/s next to339s
+[Sun Sep 28 16:38:29 2014] (353/352)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =404B/s Out =477B/s next to394s
+[Sun Sep 28 16:39:31 2014] (353/352)Nodo :uname 172.19.185.1 Attivo In =519B/s Out =542B/s next to234s
+[Sun Sep 28 16:39:39 2014] (359/359)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =563B/s Out =691B/s next to360s
+[Sun Sep 28 16:40:54 2014] (362/361)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =600B/s next to261s
+[Sun Sep 28 16:40:56 2014] (377/377)Nodo :Bellanzer2 172.19.185.3 Attivo In =548B/s Out =651B/s next to318s
+[Sun Sep 28 16:41:12 2014] (358/357)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =518B/s Out =188B/s next to367s
+[Sun Sep 28 16:41:43 2014] (395/394)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =581B/s Out =171B/s next to398s
+[Sun Sep 28 16:42:05 2014] (360/359)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to361s
+[Sun Sep 28 16:42:08 2014] (309/308)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to400s
+[Sun Sep 28 16:42:22 2014] (400/397)Nodo :fiesole1 172.19.64.2 Attivo In =582B/s Out =741B/s next to361s
+[Sun Sep 28 16:42:30 2014] (400/399)Nodo :Melagrana 172.19.193.1 Attivo In =563B/s Out =403B/s next to373s
+[Sun Sep 28 16:42:46 2014] Test Nodo: argingrosso 172.19.192.0Non Attivo next to 1419s
+Registra Argingrosso lnoferin@cybervalley.org
+Registrato  Nodo :argingrosso 172.19.192.0
+[Sun Sep 28 16:42:48 2014] Riattivazione Nodo: argingrosso 172.19.192.0
+[Sun Sep 28 16:42:50 2014] (392/391)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =481B/s Out =64B/s next to346s
+[Sun Sep 28 16:43:14 2014] (339/339)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =644B/s Out =550B/s next to348s
+[Sun Sep 28 16:43:26 2014] (235/234)Nodo :uname 172.19.185.1 Attivo In =525B/s Out =548B/s next to308s
+[Sun Sep 28 16:43:35 2014] (401/400)Nodo :Firenze::MI 172.19.177.0 Attivo In =163B/s Out =635B/s next to387s
+[Sun Sep 28 16:43:39 2014] (388/388)Nodo :fiesole1 172.19.64.1 Attivo In =1888B/s Out =931B/s next to207s
+[Sun Sep 28 16:45:03 2014] (394/394)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =499B/s Out =515B/s next to217s
+[Sun Sep 28 16:45:16 2014] (262/261)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =619B/s next to278s
+[Sun Sep 28 16:45:40 2014] (360/360)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =568B/s Out =697B/s next to295s
+[Sun Sep 28 16:46:16 2014] (320/318)Nodo :Bellanzer2 172.19.185.3 Attivo In =575B/s Out =670B/s next to319s
+[Sun Sep 28 16:47:07 2014] (207/207)Nodo :fiesole1 172.19.64.1 Attivo In =1810B/s Out =867B/s next to368s
+[Sun Sep 28 16:47:19 2014] (271/271)Nodo :argingrosso 172.19.192.0 Attivo In =236B/s Out =96B/s next to301s
+[Sun Sep 28 16:47:29 2014] (377/367)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =591B/s Out =99B/s next to304s
+[Sun Sep 28 16:48:08 2014] (362/361)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to334s
+[Sun Sep 28 16:48:22 2014] (399/398)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =529B/s Out =117B/s next to397s
+[Sun Sep 28 16:48:25 2014] (362/361)Nodo :fiesole1 172.19.64.2 Attivo In =598B/s Out =736B/s next to324s
+[Sun Sep 28 16:48:35 2014] (308/308)Nodo :uname 172.19.185.1 Attivo In =543B/s Out =553B/s next to394s
+[Sun Sep 28 16:48:37 2014] (347/346)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =509B/s Out =66B/s next to299s
+[Sun Sep 28 16:48:42 2014] (218/217)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =402B/s Out =430B/s next to251s
+[Sun Sep 28 16:48:44 2014] (373/373)Nodo :Melagrana 172.19.193.1 Attivo In =571B/s Out =397B/s next to292s
+[Sun Sep 28 16:48:48 2014] (400/400)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to298s
+[Sun Sep 28 16:49:02 2014] (348/348)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =651B/s Out =556B/s next to354s
+[Sun Sep 28 16:49:55 2014] (279/278)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =599B/s next to211s
+[Sun Sep 28 16:50:03 2014] (388/387)Nodo :Firenze::MI 172.19.177.0 Attivo In =108B/s Out =600B/s next to386s
+[Sun Sep 28 16:50:35 2014] (295/295)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =528B/s Out =688B/s next to203s
+[Sun Sep 28 16:51:38 2014] (321/319)Nodo :Bellanzer2 172.19.185.3 Attivo In =537B/s Out =675B/s next to222s
+[Sun Sep 28 16:52:22 2014] (303/301)Nodo :argingrosso 172.19.192.0 Attivo In =770B/s Out =129B/s next to281s
+[Sun Sep 28 16:52:34 2014] (305/304)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =513B/s Out =69B/s next to392s
+[Sun Sep 28 16:52:55 2014] (253/251)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =456B/s Out =382B/s next to335s
+[Sun Sep 28 16:53:17 2014] (370/368)Nodo :fiesole1 172.19.64.1 Attivo In =1910B/s Out =1027B/s next to265s
+[Sun Sep 28 16:53:27 2014] (212/211)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =588B/s next to376s
+[Sun Sep 28 16:53:38 2014] (300/299)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =489B/s Out =65B/s next to397s
+[Sun Sep 28 16:53:38 2014] (294/292)Nodo :Melagrana 172.19.193.1 Attivo In =531B/s Out =370B/s next to220s
+[Sun Sep 28 16:53:45 2014] (336/334)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to200s
+[Sun Sep 28 16:53:47 2014] (298/298)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to209s
+[Sun Sep 28 16:53:49 2014] (324/324)Nodo :fiesole1 172.19.64.2 Attivo In =578B/s Out =720B/s next to231s
+[Sun Sep 28 16:54:00 2014] (204/203)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =449B/s Out =651B/s next to347s
+[Sun Sep 28 16:54:58 2014] (355/354)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =660B/s Out =577B/s next to354s
+[Sun Sep 28 16:55:00 2014] (397/397)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =500B/s Out =309B/s next to308s
+[Sun Sep 28 16:55:10 2014] (395/394)Nodo :uname 172.19.185.1 Attivo In =511B/s Out =526B/s next to245s
+[Sun Sep 28 16:55:21 2014] (222/222)Nodo :Bellanzer2 172.19.185.3 Attivo In =544B/s Out =656B/s next to368s
+[Sun Sep 28 16:56:31 2014] (388/386)Nodo :Firenze::MI 172.19.177.0 Attivo In =116B/s Out =724B/s next to331s
+[Sun Sep 28 16:57:04 2014] (281/281)Nodo :argingrosso 172.19.192.0 Attivo In =554B/s Out =99B/s next to398s
+[Sun Sep 28 16:57:06 2014] (201/200)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to293s
+[Sun Sep 28 16:57:17 2014] (209/209)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to214s
+[Sun Sep 28 16:57:19 2014] (220/220)Nodo :Melagrana 172.19.193.1 Attivo In =604B/s Out =427B/s next to334s
+[Sun Sep 28 16:57:41 2014] (231/231)Nodo :fiesole1 172.19.64.2 Attivo In =571B/s Out =717B/s next to202s
+[Sun Sep 28 16:57:44 2014] (266/265)Nodo :fiesole1 172.19.64.1 Attivo In =2582B/s Out =914B/s next to392s
+[Sun Sep 28 16:57:46 2014] Test Nodo: Firenze::Masaccio1 172.19.185.12Non Attivo next to 1421s
+Registra Firenze::Masaccio1 Davide
+Registrato  Nodo :Firenze::Masaccio1 172.19.185.12
+[Sun Sep 28 16:57:47 2014] Riattivazione Nodo: Firenze::Masaccio1 172.19.185.12
+[Sun Sep 28 16:58:31 2014] (336/335)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =453B/s Out =454B/s next to339s
+[Sun Sep 28 16:59:08 2014] (393/392)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =946B/s Out =3569B/s next to312s
+[Sun Sep 28 16:59:16 2014] (245/245)Nodo :uname 172.19.185.1 Attivo In =525B/s Out =533B/s next to391s
+[Sun Sep 28 16:59:44 2014] (376/376)Nodo :Bellanzer2 172.19.185.2 Attivo In =59B/s Out =598B/s next to308s
+[Sun Sep 28 16:59:49 2014] (349/347)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =555B/s Out =680B/s next to279s
+[Sun Sep 28 17:00:09 2014] (308/308)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =502B/s Out =109B/s next to205s
+[Sun Sep 28 17:00:15 2014] (397/397)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =446B/s Out =65B/s next to334s
+[Sun Sep 28 17:00:51 2014] (214/214)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to249s
+[Sun Sep 28 17:00:54 2014] (355/354)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =645B/s Out =548B/s next to269s
+[Sun Sep 28 17:01:04 2014] (202/202)Nodo :fiesole1 172.19.64.2 Attivo In =622B/s Out =735B/s next to332s
+[Sun Sep 28 17:01:31 2014] (369/368)Nodo :Bellanzer2 172.19.185.3 Attivo In =552B/s Out =682B/s next to203s
+[Sun Sep 28 17:02:01 2014] (295/293)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to400s
+[Sun Sep 28 17:02:04 2014] (332/331)Nodo :Firenze::MI 172.19.177.0 Attivo In =107B/s Out =596B/s next to258s
+[Sun Sep 28 17:02:54 2014] (335/334)Nodo :Melagrana 172.19.193.1 Attivo In =564B/s Out =394B/s next to257s
+[Sun Sep 28 17:02:58 2014] (311/310)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =677B/s Out =53B/s next to285s
+[Sun Sep 28 17:03:34 2014] (205/205)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =630B/s Out =229B/s next to278s
+[Sun Sep 28 17:03:43 2014] (399/398)Nodo :argingrosso 172.19.192.0 Attivo In =572B/s Out =108B/s next to364s
+[Sun Sep 28 17:04:11 2014] (339/339)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =565B/s Out =505B/s next to338s
+[Sun Sep 28 17:04:17 2014] (393/392)Nodo :fiesole1 172.19.64.1 Attivo In =6218B/s Out =1598B/s next to245s
+[Sun Sep 28 17:04:30 2014] (321/312)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =862B/s Out =1801B/s next to334s
+[Sun Sep 28 17:04:32 2014] (283/279)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =539B/s Out =683B/s next to359s
+[Sun Sep 28 17:04:54 2014] (203/203)Nodo :Bellanzer2 172.19.185.3 Attivo In =518B/s Out =644B/s next to352s
+[Sun Sep 28 17:04:55 2014] (310/308)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =591B/s next to376s
+[Sun Sep 28 17:05:01 2014] (249/249)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to215s
+[Sun Sep 28 17:05:23 2014] (269/269)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =636B/s Out =560B/s next to242s
+[Sun Sep 28 17:05:47 2014] (391/391)Nodo :uname 172.19.185.1 Attivo In =551B/s Out =541B/s next to384s
+[Sun Sep 28 17:05:50 2014] (334/334)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =499B/s Out =65B/s next to220s
+[Sun Sep 28 17:06:22 2014] (258/258)Nodo :Firenze::MI 172.19.177.0 Attivo In =110B/s Out =607B/s next to326s
+[Sun Sep 28 17:06:38 2014] (334/332)Nodo :fiesole1 172.19.64.2 Attivo In =577B/s Out =711B/s next to314s
+[Sun Sep 28 17:07:13 2014] (258/257)Nodo :Melagrana 172.19.193.1 Attivo In =584B/s Out =419B/s next to221s
+[Sun Sep 28 17:07:45 2014] (286/285)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =348B/s Out =57B/s next to371s
+[Sun Sep 28 17:08:13 2014] (278/278)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =534B/s Out =121B/s next to342s
+[Sun Sep 28 17:08:24 2014] (246/245)Nodo :fiesole1 172.19.64.1 Attivo In =2195B/s Out =1034B/s next to274s
+[Sun Sep 28 17:08:38 2014] (217/215)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to384s
+[Sun Sep 28 17:08:43 2014] (401/400)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to219s
+[Sun Sep 28 17:09:27 2014] (243/242)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =641B/s Out =546B/s next to264s
+[Sun Sep 28 17:09:31 2014] (221/220)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =523B/s Out =65B/s next to246s
+[Sun Sep 28 17:09:47 2014] (364/364)Nodo :argingrosso 172.19.192.0 Attivo In =540B/s Out =89B/s next to263s
+[Sun Sep 28 17:09:50 2014] (338/338)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =423B/s Out =429B/s next to316s
+[Sun Sep 28 17:10:12 2014] (342/334)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =664B/s Out =391B/s next to285s
+[Sun Sep 28 17:10:32 2014] (360/359)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =560B/s Out =681B/s next to276s
+[Sun Sep 28 17:10:49 2014] (354/352)Nodo :Bellanzer2 172.19.185.3 Attivo In =547B/s Out =669B/s next to390s
+[Sun Sep 28 17:10:55 2014] (222/221)Nodo :Melagrana 172.19.193.1 Attivo In =502B/s Out =371B/s next to269s
+[Sun Sep 28 17:11:11 2014] (376/376)Nodo :Bellanzer2 172.19.185.2 Attivo In =58B/s Out =595B/s next to371s
+[Sun Sep 28 17:11:50 2014] (327/326)Nodo :Firenze::MI 172.19.177.0 Attivo In =80B/s Out =537B/s next to383s
+[Sun Sep 28 17:11:54 2014] (315/314)Nodo :fiesole1 172.19.64.2 Attivo In =569B/s Out =713B/s next to203s
+[Sun Sep 28 17:12:12 2014] (384/384)Nodo :uname 172.19.185.1 Attivo In =519B/s Out =523B/s next to273s
+[Sun Sep 28 17:12:23 2014] (220/219)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to297s
+[Sun Sep 28 17:13:00 2014] (275/274)Nodo :fiesole1 172.19.64.1 Attivo In =1712B/s Out =847B/s next to297s
+[Sun Sep 28 17:13:38 2014] (246/246)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =461B/s Out =66B/s next to212s
+[Sun Sep 28 17:13:52 2014] (265/264)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =638B/s Out =544B/s next to272s
+[Sun Sep 28 17:13:56 2014] (342/342)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =480B/s Out =98B/s next to348s
+[Sun Sep 28 17:13:56 2014] (371/371)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =345B/s Out =57B/s next to389s
+[Sun Sep 28 17:14:11 2014] (263/263)Nodo :argingrosso 172.19.192.0 Attivo In =541B/s Out =105B/s next to242s
+[Sun Sep 28 17:14:59 2014] (287/285)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =2522B/s Out =19881B/s next to259s
+[Sun Sep 28 17:15:03 2014] (385/384)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to395s
+[Sun Sep 28 17:15:07 2014] (317/316)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =346B/s Out =348B/s next to316s
+[Sun Sep 28 17:15:10 2014] (277/276)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =479B/s Out =654B/s next to244s
+[Sun Sep 28 17:15:22 2014] (208/203)Nodo :fiesole1 172.19.64.2 Attivo In =564B/s Out =710B/s next to327s
+[Sun Sep 28 17:15:24 2014] (269/269)Nodo :Melagrana 172.19.193.1 Attivo In =529B/s Out =366B/s next to269s
+[Sun Sep 28 17:16:47 2014] (274/273)Nodo :uname 172.19.185.1 Attivo In =522B/s Out =525B/s next to309s
+[Sun Sep 28 17:17:11 2014] (213/212)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =578B/s Out =66B/s next to373s
+[Sun Sep 28 17:17:20 2014] (390/390)Nodo :Bellanzer2 172.19.185.3 Attivo In =521B/s Out =643B/s next to386s
+[Sun Sep 28 17:17:22 2014] (299/297)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to227s
+[Sun Sep 28 17:17:23 2014] (371/371)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =594B/s next to306s
+[Sun Sep 28 17:17:57 2014] (297/297)Nodo :fiesole1 172.19.64.1 Attivo In =29988B/s Out =3635B/s next to337s
+[Sun Sep 28 17:18:13 2014] (383/383)Nodo :Firenze::MI 172.19.177.0 Attivo In =163B/s Out =608B/s next to361s
+[Sun Sep 28 17:18:14 2014] (242/242)Nodo :argingrosso 172.19.192.0 Attivo In =619B/s Out =191B/s next to394s
+[Sun Sep 28 17:18:26 2014] (273/272)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =654B/s Out =552B/s next to296s
+[Sun Sep 28 17:19:14 2014] (244/244)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =552B/s Out =664B/s next to305s
+[Sun Sep 28 17:19:18 2014] (259/259)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =1957B/s Out =16262B/s next to261s
+[Sun Sep 28 17:19:45 2014] (348/348)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =595B/s Out =178B/s next to314s
+[Sun Sep 28 17:19:55 2014] (270/269)Nodo :Melagrana 172.19.193.1 Attivo In =539B/s Out =380B/s next to397s
+[Sun Sep 28 17:20:25 2014] (317/316)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =277B/s Out =375B/s next to373s
+[Sun Sep 28 17:20:27 2014] (390/389)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =324B/s Out =56B/s next to392s
+[Sun Sep 28 17:20:50 2014] (327/327)Nodo :fiesole1 172.19.64.2 Attivo In =565B/s Out =702B/s next to275s
+[Sun Sep 28 17:21:11 2014] (228/227)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to256s
+[Sun Sep 28 17:21:39 2014] (395/395)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to220s
+[Sun Sep 28 17:21:57 2014] (310/309)Nodo :uname 172.19.185.1 Attivo In =504B/s Out =518B/s next to296s
+[Sun Sep 28 17:22:30 2014] (306/306)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =585B/s next to349s
+[Sun Sep 28 17:23:24 2014] (298/296)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =633B/s Out =548B/s next to396s
+[Sun Sep 28 17:23:26 2014] (375/373)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =529B/s Out =64B/s next to283s
+[Sun Sep 28 17:23:34 2014] (337/337)Nodo :fiesole1 172.19.64.1 Attivo In =21103B/s Out =2377B/s next to257s
+[Sun Sep 28 17:23:41 2014] (262/261)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =1799B/s Out =19918B/s next to225s
+[Sun Sep 28 17:23:47 2014] (387/386)Nodo :Bellanzer2 172.19.185.3 Attivo In =531B/s Out =649B/s next to386s
+[Sun Sep 28 17:24:15 2014] (362/361)Nodo :Firenze::MI 172.19.177.0 Attivo In =149B/s Out =577B/s next to204s
+[Sun Sep 28 17:24:20 2014] (305/305)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =549B/s Out =656B/s next to265s
+[Sun Sep 28 17:24:48 2014] (394/394)Nodo :argingrosso 172.19.192.0 Attivo In =525B/s Out =146B/s next to243s
+[Sun Sep 28 17:25:00 2014] (315/314)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =520B/s Out =133B/s next to316s
+[Sun Sep 28 17:25:21 2014] (221/220)Nodo :Firenze::Masaccio1 172.19.185.11 Attivo In =0B/s Out =0B/s next to399s
+[Sun Sep 28 17:25:27 2014] (277/275)Nodo :fiesole1 172.19.64.2 Attivo In =569B/s Out =702B/s next to387s
+[Sun Sep 28 17:25:30 2014] (259/256)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to290s
+[Sun Sep 28 17:26:34 2014] (399/397)Nodo :Melagrana 172.19.193.1 Attivo In =479B/s Out =334B/s next to312s
+[Sun Sep 28 17:26:40 2014] (375/373)Nodo :Csa-nExt emerson 172.19.191.3 Attivo In =380B/s Out =466B/s next to297s
+[Sun Sep 28 17:26:55 2014] (297/296)Nodo :uname 172.19.185.1 Attivo In =501B/s Out =504B/s next to249s
+[Sun Sep 28 17:27:01 2014] (393/392)Nodo :Firenze::Masaccio1 172.19.185.12 Attivo In =348B/s Out =56B/s next to279s
+[Sun Sep 28 17:27:27 2014] (226/225)Nodo :lavorivirtuali2 10.150.5.3 Attivo In =1811B/s Out =20592B/s next to357s
+[Sun Sep 28 17:27:42 2014] (206/204)Nodo :Firenze::MI 172.19.177.0 Attivo In =124B/s Out =571B/s next to307s
+[Sun Sep 28 17:27:52 2014] (257/257)Nodo :fiesole1 172.19.64.1 Attivo In =24988B/s Out =2283B/s next to351s
+[Sun Sep 28 17:28:10 2014] (283/283)Nodo :Firenze::Tacca 172.19.175.0 Attivo In =504B/s Out =65B/s next to397s
+[Sun Sep 28 17:28:21 2014] (350/349)Nodo :Bellanzer2 172.19.185.2 Attivo In =56B/s Out =586B/s next to381s
+[Sun Sep 28 17:28:47 2014] (267/265)Nodo :Firenze::Lippi 172.19.177.51 Attivo In =552B/s Out =660B/s next to332s
+[Sun Sep 28 17:28:53 2014] (245/243)Nodo :argingrosso 172.19.192.0 Attivo In =525B/s Out =119B/s next to237s
+[Sun Sep 28 17:30:01 2014] (397/396)Nodo :Csa-nExt emerson 172.19.191.2 Attivo In =656B/s Out =552B/s next to246s
+[Sun Sep 28 17:30:14 2014] (386/386)Nodo :Bellanzer2 172.19.185.3 Attivo In =518B/s Out =639B/s next to368s
+[Sun Sep 28 17:30:18 2014] (317/316)Nodo :RossiniDalleOnde 172.19.194.3 Attivo In =507B/s Out =105B/s next to312s
+[Sun Sep 28 17:30:21 2014] (291/290)Nodo :Firenze::Lippi 172.19.177.52 Attivo In =0B/s Out =0B/s next to390s
+[Sun Sep 28 17:31:05 2014] (250/249)Nodo :uname 172.19.185.1 Attivo In =481B/s Out =500B/s next to293s
